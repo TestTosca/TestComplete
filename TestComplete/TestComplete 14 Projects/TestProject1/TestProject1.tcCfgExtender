@@ -21,7 +21,7 @@
 	<Node name="root">
 		<Node name="data">
 			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
-				<Prp name="activity" type="S" value="{648E72DB-8B1D-4BF9-B312-B0075CC1A455}"/>
+				<Prp name="activity" type="S" value="{FB0C95A5-1051-4C12-9B1B-D7CEC51424F8}"/>
 			</Node>
 			<Node name="{2c786620-2489-4cbb-9c1e-1a94437a9245}"/>
 			<Node name="{415b5aa1-c6ac-4d4d-9a53-063a521a45ab}">
@@ -69,6 +69,9 @@
 						<Node name="expanding">
 							<Prp name="expandlist" type="H" value="617162696E000000010000001C0000007801636460606082622005062C501A0000B0000A"/>
 						</Node>
+					</Node>
+					<Node name="{fb0c95a5-1051-4c12-9b1b-d7cec51424f8}\testdata">
+						<Node name="expanding"/>
 					</Node>
 				</Node>
 			</Node>
