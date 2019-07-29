@@ -28,6 +28,7 @@
 				<Node name="workspace">
 					<Node name="0">
 						<Node name="editor">
+							<Node name="{4f9540d5-d9ab-44cd-8dca-73f5f2e7a572}"/>
 							<Node name="{8c45957c-f4b3-4dd7-9212-49cbd350f69f}">
 								<Prp name="key" type="S" value="{3F6C431F-4C1D-40D2-9047-64E6B520BF12}"/>
 							</Node>
@@ -44,6 +45,7 @@
 								</Node>
 								<Prp name="key" type="S" value="{0BF7F1B9-A0ED-4C87-BE11-E44063795C57}"/>
 							</Node>
+							<Node name="{eb7c9d82-bc63-4167-ad95-a6b053bbda71}"/>
 							<Prp name="editor" type="S" value="{E8F986AD-3D94-4BB6-B708-28E891227C25}"/>
 							<Prp name="focused" type="S" value="{0BF7F1B9-A0ED-4C87-BE11-E44063795C57}"/>
 						</Node>

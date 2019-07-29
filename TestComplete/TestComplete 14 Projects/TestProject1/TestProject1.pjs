@@ -12,7 +12,7 @@
 		<data Version="3" />
 	</variables>
 	<analysis key="{51B277AF-6E9F-4CAC-9C18-20FAD2502FF5}" />
-	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+	<scc key="{0705471C-F3AB-4634-8ECB-5FA8123FAEDC}" name="Subversion Plugin">
 		<data />
 	</scc>
 	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}">

@@ -623,7 +623,7 @@
 		<setting name="ZFJ_ZephyrSecretKey" type="5" value="" />
 	</settings>
 	<analysis key="{38028FB2-3681-42A1-9196-D2B384DDDA27}" />
-	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+	<scc key="{0705471C-F3AB-4634-8ECB-5FA8123FAEDC}" name="Subversion Plugin">
 		<data />
 	</scc>
 	<issueTracking key="{2951D527-9E73-4139-91AF-FF69CCCF9E25}">
