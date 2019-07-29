@@ -424,6 +424,31 @@
 					</Child>
 				</Child>
 			</Child>
+			<Child Name="pageContact" Owner="{FA512876-0D4E-42FF-9BAD-BAB245D765E4}">
+				<Child Name="footerContact" Owner="{7021730A-2D0C-4CF6-9221-08EFDCA38DEA}">
+					<Child Name="formCareerForm" Owner="{C29EF267-6A6A-43E8-A62A-87A343B03A72}">
+						<Child Name="textboxName2" Owner="{FE91243C-F783-49D9-A8D0-8B5ED1F05AAC}" />
+						<Child Name="textboxPhone" Owner="{B2B307BF-3735-436E-BB19-ABD35EED2DCE}" />
+						<Child Name="emailinputEmail2" Owner="{13FB9821-7B06-4F2E-B282-220BEA9BEA8F}" />
+						<Child Name="fileUploadResume" Owner="{4CA9C78B-B9D9-4A67-81DC-F814B6C45B02}" />
+						<Child Name="textareaMessage2" Owner="{AAF3AA5A-7FE7-4D1F-B7A2-307FF2CA8AB4}" />
+						<Child Name="textboxCaptchaCareer" Owner="{45C9BB70-F13D-4CC4-AB97-65AF348957F9}" />
+					</Child>
+					<Child Name="panelOnMap" Owner="{4203EE1F-C799-4481-BD2E-65C3C2AA6C1D}">
+						<Child Name="panel" Owner="{1BA3FCBD-7760-4606-AC60-76DEAC064E8E}">
+							<Child Name="formCareerForm" Owner="{9C629B9F-54BE-4294-ABFA-A9AD74F11795}">
+								<Child Name="buttonSubmit" Owner="{5E8A4569-E910-4A88-A094-F5F746F9135F}" />
+							</Child>
+						</Child>
+					</Child>
+					<Child Name="link" Owner="{3BDDB3F3-CA4E-4521-84B7-3AE74CD2A848}" />
+				</Child>
+			</Child>
+			<Child Name="pageCompany" Owner="{03A10B78-C33B-46F3-A36D-1F825EA6F2C0}">
+				<Child Name="header" Owner="{58276020-66C8-48FD-977F-467A6DCE7A23}">
+					<Child Name="nav" Owner="{29AD804E-5D2A-4199-A36F-F7D5F2CBFC9F}" />
+				</Child>
+			</Child>
 		</Child>
 	</LogicalNodes>
 	<TypeInfo StoreCodeCompletion="1">
@@ -640,6 +665,70 @@
 		<Child Hash="116893818" Key="{4FEA15B2-9242-40EA-A039-381FD4CF1086}">
 			<Data Properties="55798DFAB3284D4EA996B763987D8F42UFFFFFFFFFFFFFFFFV4L8ZZY">
 				<FunctionDescriptions>
+					<Child Name="ClickButton" Doc="Performs a single click on the specified button." IsBasic="True" Data="ZI4L1L4ZN18ZN">
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Visible" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Height" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Enabled" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+		<Child Hash="2125654207" Key="{A6F2A94D-5281-436E-8AC0-536F1EF2AEDC}">
+			<Data Properties="54DF2E2E8217CB478E42D8CF593392EEUFFFFFFFFFFFFFFFFV4LAZZY">
+				<FunctionDescriptions>
+					<Child Name="ClickButton" Doc="Performs a single click on the specified button." IsBasic="True" Data="ZI4L1L4ZN18ZN">
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ObjectLabel" Doc="Gets the label of the control." IsBasic="True" Data="ZI4L2L4ZO8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
 					<Child Name="ClickButton" Doc="Performs a single click on the specified button." IsBasic="True" Data="ZI4L1L4ZN18ZN">
 						<ReturnValue Param0="24" />
 					</Child>

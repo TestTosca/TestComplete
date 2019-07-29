@@ -30,7 +30,7 @@
 						<Node name="editor">
 							<Node name="{4f9540d5-d9ab-44cd-8dca-73f5f2e7a572}"/>
 							<Node name="{8c45957c-f4b3-4dd7-9212-49cbd350f69f}">
-								<Prp name="key" type="S" value="{3F6C431F-4C1D-40D2-9047-64E6B520BF12}"/>
+								<Prp name="key" type="S" value="{DD940527-32D7-4927-BE05-D802AFDB8309}"/>
 							</Node>
 							<Node name="{90fe4d39-229d-4887-ac6f-07b02ce523fc}">
 								<Node name="main">
@@ -43,16 +43,26 @@
 								<Node name="toolbox">
 									<Prp name="active" type="S" value=""/>
 								</Node>
-								<Prp name="key" type="S" value="{0BF7F1B9-A0ED-4C87-BE11-E44063795C57}"/>
+								<Prp name="key" type="S" value="{E82A741C-6AF1-4066-AA78-7C9E45392652}"/>
 							</Node>
 							<Node name="{eb7c9d82-bc63-4167-ad95-a6b053bbda71}"/>
 							<Prp name="editor" type="S" value="{E8F986AD-3D94-4BB6-B708-28E891227C25}"/>
-							<Prp name="focused" type="S" value="{0BF7F1B9-A0ED-4C87-BE11-E44063795C57}"/>
+							<Prp name="focused" type="S" value="{E82A741C-6AF1-4066-AA78-7C9E45392652}"/>
 						</Node>
 						<Prp name="edititem" type="S" value="{648E72DB-8B1D-4BF9-B312-B0075CC1A455}"/>
 					</Node>
-					<Prp name="docking" type="H" value="617162696E00000001000000C80100007801730C74F177F6E66680023120BD888581218B0926828FAE6784C8DEF17EF6DEBDF5A3F3E2CEEB574ADFC87232BA01259881724BBA14CD12B572BD7ADBAA83AB767C59F21128D60CC493591918AE635A01B4183FF80F058780E69F002A45E7E3D59D009205B978318801046BDB7EBE9862BBCD7B3B87C68B894A35AA5F8062F381B80FE8BACBC8AE03F219421852198A194A188C816C3AB813680B490000417C4BB7"/>
-					<Prp name="editorscount" type="I" value="1"/>
+					<Node name="1">
+						<Node name="editor">
+							<Node name="{d9921bff-a395-4425-908d-6767b2d734ea}">
+								<Prp name="key" type="S" value="{C4197A8A-1AFF-4F8F-B8B6-F5C9D32188F7}"/>
+							</Node>
+							<Prp name="editor" type="S" value="{48169307-8C31-4FFA-861A-D02D622C55D2}"/>
+							<Prp name="focused" type="S" value="{C4197A8A-1AFF-4F8F-B8B6-F5C9D32188F7}"/>
+						</Node>
+						<Prp name="edititem" type="S" value="{25C37806-ADF4-46DA-8ACE-9899FCA45EC6}"/>
+					</Node>
+					<Prp name="docking" type="H" value="617162696E00000001000000790200007801730C74F177F6E666800231201DC0C6C0D0CE0C13C1471B304164EF783F7BEFDEFAD17971E7F52BA56F643919BF333230804C58D2A56896A895EBD5DB561D5CB5E3CB1203A0782950BC819D81E119A6152CF82C03C9FD87824340734E60E1E3D59F009205B9782D880104EC93C53C0C7B7EF9B7495DD04DD209BD640C34752250BC1AE8BA47C8AEE3020A063394302432140149058600202B9D2115284A0717036D590CC420B0B6EDE78B29B6DBBCB77368BC98A854A38AD3C1AC40C521400716039D6B0C64D3C799C0E0231E00003AD16A94"/>
+					<Prp name="editorscount" type="I" value="2"/>
 					<Prp name="enabled" type="B" value="-1"/>
 				</Node>
 			</Node>
@@ -103,6 +113,7 @@
 						<Node name="keywordtests"/>
 					</Node>
 				</Node>
+				<Node name="testproject1 logs"/>
 			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{8EBE6EB3-803D-4913-AD7A-D71552123A67}"/>
