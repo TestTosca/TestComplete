@@ -3,7 +3,13 @@
 	<TestData Description="" Key="{A23036E6-968E-4260-8D87-55D745A983FB}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
 		<Data>
 			<Extenders>
-				<NodeBitmaps />
+				<NodeBitmaps>
+					<Bitmap Name="Aliases.browser.pageLoginOnTwitter" Data="61717A697000000001000000360400007801AD936B48935118C77F5696585126AB08C3881A569429BA8BCB3916B8CDE987F443372ABA18254650CD22EC4276F91C7D8988402BA26C5DF0926196152311AD4D5DAFDD5C739B662B33243398BEBDBDE64488BED481FF79CE79CEF93DCFE19CE718735493909B4AEA1324CDFCAD08164823A9FD5E1F998CF4A228F23F25F8DBD879710BC9C58B5872663331173CCC3ED7449E5DA0E543FF5F739DBA7B9C94334968CFEB30DBCD586FA8897BD44A6CC310D3EEFA8829755354EFFD638CD39527509D4DC57CC78AA5DA8AA9268BCC7B46D26EE632B14524DA2512D33848B4BD83030EDFB81842B720B12ACC15D9986BAC18AB4D682A33B0BD28E6E0D34214D74E429BC8949610D39FFF20EAD67B5C9FBF87631494EF4277351D4B4DB6CC6E75EC96D77C0FAEE1AFBB8218FAC672773FB886896A1D22A2FE139627DD615E7D5E2DB32629B7A64A2FFB6F6C53509E3F4B522CB7B7CF947D3845264B67889234B1DA1FE63597B458EEE790596B66877D3F03CE0A1E1E50E238A193B48A473625A186320C5E9109AE119EBA9E30AFBDACC3529B4DE64303395B4A09BDA9E259899EE6736B792EA9A1C480D85C3E9EAF0F8EF157D2B03E369354B49148DCB25FB8908B50BA9DF6B27CBCD7F7312CD519D23B44B60DC977C0E331BEB0AE107DD54A162EAB242EB61363460F43C3525DF63620F635CA6C4A532F531D4166B8BE426310637B5F38FFAB2F02CAFC7C16CFED6169820FA5D2CBBCF93ED66FEEC59417648EDEC3C2740FCAF40E16EB3C28125EE0F40C84F95FF56F2BE8233EFE25A95A3F1A7D803463008DA10BB5BE0B8DAE0B55AA9FA4153EE2144E0EEDE91CC78EFE9F6325DD24AA05D4ABDF62591BC4BAE113599235E57E2439FD0D4B12DD1C391AF8233B1AA3FDF5207B0F0730ADEB206B9317CB460FC635EF28B0F9105E8DD5DCE8FE7FB53F01928C17B6" />
+					<Bitmap Name="Aliases.browser.pageLoginOnTwitter.panelPageOuter" Data="61717A697000000001000000360400007801AD936B48935118C77F5696585126AB08C3881A569429BA8BCB3916B8CDE987F443372ABA18254650CD22EC4276F91C7D8988402BA26C5DF0926196152311AD4D5DAFDD5C739B662B33243398BEBDBDE64488BED481FF79CE79CEF93DCFE19CE718735493909B4AEA1324CDFCAD08164823A9FD5E1F998CF4A228F23F25F8DBD879710BC9C58B5872663331173CCC3ED7449E5DA0E543FF5F739DBA7B9C94334968CFEB30DBCD586FA8897BD44A6CC310D3EEFA8829755354EFFD638CD39527509D4DC57CC78AA5DA8AA9268BCC7B46D26EE632B14524DA2512D33848B4BD83030EDFB81842B720B12ACC15D9986BAC18AB4D682A33B0BD28E6E0D34214D74E429BC8949610D39FFF20EAD67B5C9FBF87631494EF4277351D4B4DB6CC6E75EC96D77C0FAEE1AFBB8218FAC672773FB886896A1D22A2FE139627DD615E7D5E2DB32629B7A64A2FFB6F6C53509E3F4B522CB7B7CF947D3845264B67889234B1DA1FE63597B458EEE790596B66877D3F03CE0A1E1E50E238A193B48A473625A186320C5E9109AE119EBA9E30AFBDACC3529B4DE64303395B4A09BDA9E259899EE6736B792EA9A1C480D85C3E9EAF0F8EF157D2B03E369354B49148DCB25FB8908B50BA9DF6B27CBCD7F7312CD519D23B44B60DC977C0E331BEB0AE107DD54A162EAB242EB61363460F43C3525DF63620F635CA6C4A532F531D4166B8BE426310637B5F38FFAB2F02CAFC7C16CFED6169820FA5D2CBBCF93ED66FEEC59417648EDEC3C2740FCAF40E16EB3C28125EE0F40C84F95FF56F2BE8233EFE25A95A3F1A7D803463008DA10BB5BE0B8DAE0B55AA9FA4153EE2144E0EEDE91CC78EFE9F6325DD24AA05D4ABDF62591BC4BAE113599235E57E2439FD0D4B12DD1C391AF8233B1AA3FDF5207B0F0730ADEB206B9317CB460FC635EF28B0F9105E8DD5DCE8FE7FB53F01928C17B6" />
+					<Bitmap Name="Aliases.browser.pageLoginOnTwitter.panelPageOuter.form" Data="61717A697000000001000000360400007801AD936B48935118C77F5696585126AB08C3881A569429BA8BCB3916B8CDE987F443372ABA18254650CD22EC4276F91C7D8988402BA26C5DF0926196152311AD4D5DAFDD5C739B662B33243398BEBDBDE64488BED481FF79CE79CEF93DCFE19CE718735493909B4AEA1324CDFCAD08164823A9FD5E1F998CF4A228F23F25F8DBD879710BC9C58B5872663331173CCC3ED7449E5DA0E543FF5F739DBA7B9C94334968CFEB30DBCD586FA8897BD44A6CC310D3EEFA8829755354EFFD638CD39527509D4DC57CC78AA5DA8AA9268BCC7B46D26EE632B14524DA2512D33848B4BD83030EDFB81842B720B12ACC15D9986BAC18AB4D682A33B0BD28E6E0D34214D74E429BC8949610D39FFF20EAD67B5C9FBF87631494EF4277351D4B4DB6CC6E75EC96D77C0FAEE1AFBB8218FAC672773FB886896A1D22A2FE139627DD615E7D5E2DB32629B7A64A2FFB6F6C53509E3F4B522CB7B7CF947D3845264B67889234B1DA1FE63597B458EEE790596B66877D3F03CE0A1E1E50E238A193B48A473625A186320C5E9109AE119EBA9E30AFBDACC3529B4DE64303395B4A09BDA9E259899EE6736B792EA9A1C480D85C3E9EAF0F8EF157D2B03E369354B49148DCB25FB8908B50BA9DF6B27CBCD7F7312CD519D23B44B60DC977C0E331BEB0AE107DD54A162EAB242EB61363460F43C3525DF63620F635CA6C4A532F531D4166B8BE426310637B5F38FFAB2F02CAFC7C16CFED6169820FA5D2CBBCF93ED66FEEC59417648EDEC3C2740FCAF40E16EB3C28125EE0F40C84F95FF56F2BE8233EFE25A95A3F1A7D803463008DA10BB5BE0B8DAE0B55AA9FA4153EE2144E0EEDE91CC78EFE9F6325DD24AA05D4ABDF62591BC4BAE113599235E57E2439FD0D4B12DD1C391AF8233B1AA3FDF5207B0F0730ADEB206B9317CB460FC635EF28B0F9105E8DD5DCE8FE7FB53F01928C17B6" />
+					<Bitmap Name="Aliases.browser.pageSearch" Data="61717A697000000001000000360400007801AD936B48935118C77F5696585126AB08C3881A569429BA8BCB3916B8CDE987F443372ABA18254650CD22EC4276F91C7D8988402BA26C5DF0926196152311AD4D5DAFDD5C739B662B33243398BEBDBDE64488BED481FF79CE79CEF93DCFE19CE718735493909B4AEA1324CDFCAD08164823A9FD5E1F998CF4A228F23F25F8DBD879710BC9C58B5872663331173CCC3ED7449E5DA0E543FF5F739DBA7B9C94334968CFEB30DBCD586FA8897BD44A6CC310D3EEFA8829755354EFFD638CD39527509D4DC57CC78AA5DA8AA9268BCC7B46D26EE632B14524DA2512D33848B4BD83030EDFB81842B720B12ACC15D9986BAC18AB4D682A33B0BD28E6E0D34214D74E429BC8949610D39FFF20EAD67B5C9FBF87631494EF4277351D4B4DB6CC6E75EC96D77C0FAEE1AFBB8218FAC672773FB886896A1D22A2FE139627DD615E7D5E2DB32629B7A64A2FFB6F6C53509E3F4B522CB7B7CF947D3845264B67889234B1DA1FE63597B458EEE790596B66877D3F03CE0A1E1E50E238A193B48A473625A186320C5E9109AE119EBA9E30AFBDACC3529B4DE64303395B4A09BDA9E259899EE6736B792EA9A1C480D85C3E9EAF0F8EF157D2B03E369354B49148DCB25FB8908B50BA9DF6B27CBCD7F7312CD519D23B44B60DC977C0E331BEB0AE107DD54A162EAB242EB61363460F43C3525DF63620F635CA6C4A532F531D4166B8BE426310637B5F38FFAB2F02CAFC7C16CFED6169820FA5D2CBBCF93ED66FEEC59417648EDEC3C2740FCAF40E16EB3C28125EE0F40C84F95FF56F2BE8233EFE25A95A3F1A7D803463008DA10BB5BE0B8DAE0B55AA9FA4153EE2144E0EEDE91CC78EFE9F6325DD24AA05D4ABDF62591BC4BAE113599235E57E2439FD0D4B12DD1C391AF8233B1AA3FDF5207B0F0730ADEB206B9317CB460FC635EF28B0F9105E8DD5DCE8FE7FB53F01928C17B6" />
+					<Bitmap Name="Aliases.browser.pageTwitterCom" Data="61717A697000000001000000360400007801AD936B48935118C77F5696585126AB08C3881A569429BA8BCB3916B8CDE987F443372ABA18254650CD22EC4276F91C7D8988402BA26C5DF0926196152311AD4D5DAFDD5C739B662B33243398BEBDBDE64488BED481FF79CE79CEF93DCFE19CE718735493909B4AEA1324CDFCAD08164823A9FD5E1F998CF4A228F23F25F8DBD879710BC9C58B5872663331173CCC3ED7449E5DA0E543FF5F739DBA7B9C94334968CFEB30DBCD586FA8897BD44A6CC310D3EEFA8829755354EFFD638CD39527509D4DC57CC78AA5DA8AA9268BCC7B46D26EE632B14524DA2512D33848B4BD83030EDFB81842B720B12ACC15D9986BAC18AB4D682A33B0BD28E6E0D34214D74E429BC8949610D39FFF20EAD67B5C9FBF87631494EF4277351D4B4DB6CC6E75EC96D77C0FAEE1AFBB8218FAC672773FB886896A1D22A2FE139627DD615E7D5E2DB32629B7A64A2FFB6F6C53509E3F4B522CB7B7CF947D3845264B67889234B1DA1FE63597B458EEE790596B66877D3F03CE0A1E1E50E238A193B48A473625A186320C5E9109AE119EBA9E30AFBDACC3529B4DE64303395B4A09BDA9E259899EE6736B792EA9A1C480D85C3E9EAF0F8EF157D2B03E369354B49148DCB25FB8908B50BA9DF6B27CBCD7F7312CD519D23B44B60DC977C0E331BEB0AE107DD54A162EAB242EB61363460F43C3525DF63620F635CA6C4A532F531D4166B8BE426310637B5F38FFAB2F02CAFC7C16CFED6169820FA5D2CBBCF93ED66FEEC59417648EDEC3C2740FCAF40E16EB3C28125EE0F40C84F95FF56F2BE8233EFE25A95A3F1A7D803463008DA10BB5BE0B8DAE0B55AA9FA4153EE2144E0EEDE91CC78EFE9F6325DD24AA05D4ABDF62591BC4BAE113599235E57E2439FD0D4B12DD1C391AF8233B1AA3FDF5207B0F0730ADEB206B9317CB460FC635EF28B0F9105E8DD5DCE8FE7FB53F01928C17B6" />
+				</NodeBitmaps>
 			</Extenders>
 		</Data>
 		<Children>
@@ -16,80 +22,294 @@
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Navigates to the &apos;%p1&apos; address." Action="ToUrl" InvokeKind="-1" Initialized="True">
+				<Data Description="Navigates to the &apos;%p1&apos; address." Action="ToUrl">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="https://www.google.com/gmail/about/#" />
+						<Parameter Name="URL" DefVarType="8" VarType="8" ValueType="6" ValueValue="https://www.google.com/gmail/about/#" />
+						<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
 					</Parameters>
 					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Navigates to the &apos;%p1&apos; address." Action="ToUrl" InvokeKind="-1" Initialized="True">
+				<Data Description="Navigates to the &apos;%p1&apos; address." Action="ToUrl">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="https://www.google.com/search?q=Rahul+Kant+Sharma&amp;rlz=1C1CHBF_enUS859US859&amp;oq=Rahul+Kant+Sharma&amp;aqs=chrome..69i57.4045j0j4&amp;sourceid=chrome&amp;ie=UTF-8" />
+						<Parameter Name="URL" DefVarType="8" VarType="8" ValueType="6" ValueValue="https://www.google.com/search?q=Rahul+Kant+Sharma&amp;rlz=1C1CHBF_enUS859US859&amp;oq=Rahul+Kant+Sharma&amp;aqs=chrome..69i57.4045j0j4&amp;sourceid=chrome&amp;ie=UTF-8" />
+						<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
 					</Parameters>
 					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; object." Action="Click" InvokeKind="-1" Initialized="True">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="93" />
-						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="62" />
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="93" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="62" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
 					</Parameters>
 					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageSearch.imageDimg4;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Waits until the browser loads the page and is ready to accept user input." Action="Wait" InvokeKind="-1" Initialized="True">
+				<Data Description="Waits until the browser loads the page and is ready to accept user input." Action="Wait">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
 					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageSearch;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="104" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="149" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageSearch.panelMain.panelCnt.panelRcnt.panel.panelCenterCol.panelRes.panelSearch.panel.panelRso.panelIsrMc.imageZ;" />
+				</Data>
+			</Operation>
+<<<<<<< .mine
+			<Operation Type="{D95A0934-BE78-45D6-B254-2098596D2A11}">
+				<Data Description="Opens the specified URL in a running instance of the specified browser." BrowserName="chrome">
+||||||| .r6
+		</Children>
+		<Children>
+			<Operation Type="{98EACF50-FA7B-4595-8EDC-4C0B21157A52}">
+				<Data Description="Launches the specified browser and opens the specified URL in it." BrowserName="chrome">
+=======
+			<Operation Type="{98EACF50-FA7B-4595-8EDC-4C0B21157A52}">
+				<Data Description="Launches the specified browser and opens the specified URL in it." BrowserName="chrome">
+>>>>>>> .r7
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+<<<<<<< .mine
+						<Parameter Name="URL" DefVarType="8" VarType="8" ValueType="6" ValueValue="https://www.google.com/search?q=Rahul+Kant+Sharma&amp;rlz=1C1CHBF_enUS859US859&amp;tbm=isch&amp;source=iu&amp;ictx=1&amp;fir=Y9QWhN8azIdnzM%253A%252C9x3f22LqsPH73M%252C_&amp;vet=1&amp;usg=AI4_-kR_n7l6H2R6pfUvhnounXbd5Gr6yw&amp;sa=X&amp;ved=2ahUKEwjF6JuO19njAhXCHc0KHSQ1BssQ9QEwAXoECAkQCQ#imgrc=PcT2uA4GN0rzMM:&amp;vet=1" />
+						<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+||||||| .r6
+						<Parameter Name="URL" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="http://www.sstsinc.com/Company.html" />
+						<Parameter Name="PageLoadWaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+=======
+						<Parameter Name="URL" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="https://www.flipkart.com/" />
+						<Parameter Name="PageLoadWaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+>>>>>>> .r7
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+<<<<<<< .mine
+				<Data Description="Navigates to the &apos;%p1&apos; address." Action="ToUrl">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="URL" DefVarType="8" VarType="8" ValueType="6" ValueValue="https://www.facebook.com/" />
+						<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser;" />
+||||||| .r6
+				<Data Description="Clicks the %p1 item of the &apos;%n&apos; bar." Action="ClickItem" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="Contacts" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageCompany.header.nav;" />
+=======
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageOnlineShoppingSiteForMobiles.button;" />
+>>>>>>> .r7
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+<<<<<<< .mine
+				<Data Description="Navigates to the &apos;%p1&apos; address." Action="ToUrl">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="URL" DefVarType="8" VarType="8" ValueType="6" ValueValue="https://twitter.com/" />
+						<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+||||||| .r6
+				<Data Description="Clicks the &apos;%n&apos; link." Action="Click" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageContact.footerContact.link;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
 				<Data Description="Clicks the &apos;%n&apos; object." Action="Click" InvokeKind="-1" Initialized="True">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="104" />
-						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="149" />
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="115" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="41" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageSearch.panelMain.panelCnt.panelRcnt.panel.panelCenterCol.panelRes.panelSearch.panel.panelRso.panelIsrMc.imageZ;" />
-				</Data>
-			</Operation>
-			<Operation Type="{98EACF50-FA7B-4595-8EDC-4C0B21157A52}">
-				<Data Description="Launches the specified browser and opens the specified URL in it." BrowserName="chrome">
-					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="URL" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="https://www.flipkart.com/" />
-						<Parameter Name="PageLoadWaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
-					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageContact.footerContact.formCareerForm.textboxName2;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageOnlineShoppingSiteForMobiles.button;" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+=======
 				<Data Description="Clicks the &apos;%n&apos; link." Action="Click" InvokeKind="-1" Initialized="True">
 					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageOnlineShoppingSiteForMobiles.panelContainer.panel.panel.panel.panel.panel.panel.link;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText" InvokeKind="-1" Initialized="True">
+>>>>>>> .r7
+				<Data Description="Clicks the &apos;%n&apos; link." Action="Click">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+<<<<<<< .mine
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+||||||| .r6
+						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="Sachin" />
+=======
 						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="dddddd" />
+>>>>>>> .r7
 					</Parameters>
+<<<<<<< .mine
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageTwitterCom.link;" />
+||||||| .r6
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageContact.footerContact.formCareerForm.textboxName2;" />
+=======
 					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageOnlineShoppingSiteForMobiles.panel.panel.form.textbox;" />
+>>>>>>> .r7
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Waits until the browser loads the page and is ready to accept user input." Action="Wait">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+<<<<<<< .mine
+						<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+||||||| .r6
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="100" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="32" />
+=======
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="153" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="17" />
+>>>>>>> .r7
+					</Parameters>
+<<<<<<< .mine
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageTwitterCom;" />
+||||||| .r6
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageContact.footerContact.formCareerForm.textboxPhone;" />
+=======
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageOnlineShoppingSiteForMobiles.panel.panel.form.passwordbox;" />
+>>>>>>> .r7
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+<<<<<<< .mine
+				<Data Description="Clicks the &apos;%n&apos; link." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageLoginOnTwitter.panelPageOuter.form.link;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Waits until the browser loads the page and is ready to accept user input." Action="Wait">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageLoginOnTwitter;" />
+				</Data>
+			</Operation>
+||||||| .r6
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="9896888812" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageContact.footerContact.formCareerForm.textboxPhone;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
 				<Data Description="Clicks the &apos;%n&apos; object." Action="Click" InvokeKind="-1" Initialized="True">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="153" />
-						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="17" />
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="143" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="39" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageOnlineShoppingSiteForMobiles.panel.panel.form.passwordbox;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageContact.footerContact.formCareerForm.emailinputEmail2;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="sachin@gmail.com" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageContact.footerContact.formCareerForm.emailinputEmail2;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="76" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="29" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageContact.footerContact.formCareerForm.fileUploadResume;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="67" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="50" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageContact.footerContact.formCareerForm.textareaMessage2;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="None" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageContact.footerContact.formCareerForm.textareaMessage2;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="86" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="22" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageContact.footerContact.formCareerForm.textboxCaptchaCareer;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="hehe" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageContact.footerContact.formCareerForm.textboxCaptchaCareer;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageContact.footerContact.panelOnMap.panel.formCareerForm.buttonSubmit;" />
+				</Data>
+			</Operation>
+=======
 				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText" InvokeKind="-1" Initialized="True">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="dddddddfrt" />
@@ -107,6 +327,7 @@
 					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageOnlineShoppingSiteForMobiles.panel.panel.button;" />
 				</Data>
 			</Operation>
+>>>>>>> .r7
 		</Children>
 	</TestData>
 	<Variables Version="3" Key="{BBFA27A2-DD20-4F5C-AE16-BC6C99290FCB}" />

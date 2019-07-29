@@ -359,6 +359,82 @@
 									</Child>
 								</Children>
 							</Child>
+<<<<<<< .mine
+							<Child Name="pageTwitterCom" Key="{AD458A38-03C6-41D3-A323-2958704085CD}" ParallelWalk="True">
+								<Image FileName="-2016392773" Left="0" Top="71" Right="1432" Bottom="773" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="https://twitter.com/" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="link" Key="{124A4BEE-CBB9-4C19-8C11-ECC2FADF264A}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="-1555489753" Left="886" Top="507" Right="1236" Bottom="541" />
+										<TypeInfo Item0="{41919128-7274-40B8-8725-1DCE188B16CD}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Link" Type="5" />
+											</Property>
+											<Property Name="href">
+												<Value PropertyType="0" Value="https://twitter.com/login" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="1" Type="0" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageLoginOnTwitter" Key="{875718B4-B248-43D4-8BD6-9B92B50BDAF2}" ParallelWalk="True">
+								<Image FileName="-2016392773" Left="0" Top="71" Right="1432" Bottom="773" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="https://twitter.com/login" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panelPageOuter" Key="{01FBC8F9-1547-40ED-B37D-C83C8AF669A0}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="-1918573445" Left="0" Top="71" Right="1415" Bottom="773" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="page-outer" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="form" Key="{B068A7BA-D1D2-4972-AFD0-6C6161CFE933}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="-1918573445" Left="415" Top="207" Right="1000" Bottom="350" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Form" Type="5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="link" Key="{AC4B9490-23D0-4801-BA52-971E54BEEF73}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="-1918573445" Left="624" Top="320" Right="734" Bottom="339" />
+														<TypeInfo Item0="{41919128-7274-40B8-8725-1DCE188B16CD}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Link" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+||||||| .r6
+=======
 							<Child Name="pageOnlineShoppingSiteForMobiles" Key="{35807FAA-EFDE-446C-9593-0A5114918B17}" ParallelWalk="True">
 								<Image FileName="596738279" Left="0" Top="71" Right="1920" Bottom="1040" />
 								<Properties>
@@ -547,6 +623,7 @@
 									</Child>
 								</Children>
 							</Child>
+>>>>>>> .r7
 						</Children>
 					</Child>
 				</Children>
@@ -626,6 +703,19 @@
 					<Child Name="nav" Owner="{29AD804E-5D2A-4199-A36F-F7D5F2CBFC9F}" />
 				</Child>
 			</Child>
+<<<<<<< .mine
+			<Child Name="pageTwitterCom" Owner="{AD458A38-03C6-41D3-A323-2958704085CD}">
+				<Child Name="link" Owner="{124A4BEE-CBB9-4C19-8C11-ECC2FADF264A}" />
+			</Child>
+			<Child Name="pageLoginOnTwitter" Owner="{875718B4-B248-43D4-8BD6-9B92B50BDAF2}">
+				<Child Name="panelPageOuter" Owner="{01FBC8F9-1547-40ED-B37D-C83C8AF669A0}">
+					<Child Name="form" Owner="{B068A7BA-D1D2-4972-AFD0-6C6161CFE933}">
+						<Child Name="link" Owner="{AC4B9490-23D0-4801-BA52-971E54BEEF73}" />
+					</Child>
+				</Child>
+			</Child>
+||||||| .r6
+=======
 			<Child Name="pageOnlineShoppingSiteForMobiles" Owner="{35807FAA-EFDE-446C-9593-0A5114918B17}">
 				<Child Name="panel" Owner="{C134188D-889F-48A9-A4DE-F1BC8908F578}">
 					<Child Name="panel" Owner="{05256BE7-EFF0-427E-A8D4-4F8754850A9F}">
@@ -654,6 +744,7 @@
 					</Child>
 				</Child>
 			</Child>
+>>>>>>> .r7
 		</Child>
 	</LogicalNodes>
 	<TypeInfo StoreCodeCompletion="1">

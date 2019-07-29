@@ -1,6 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root>
 	<Images>
+<<<<<<< .mine
+		<Child1 File="1806937.png" RefCount="1" Cookie="480587991" />
+		<Child2 File="4202781.png" RefCount="2" Cookie="-2016392773" />
+		<Child3 File="1806687.png" RefCount="1" Cookie="-47203614" />
+		<Child4 File="3682906.png" RefCount="2" Cookie="-926323838" />
+		<Child5 File="3690437.png" RefCount="1" Cookie="665587738" />
+		<Child6 File="4203093.png" RefCount="1" Cookie="-1555489753" />
+		<Child7 File="1803796.png" RefCount="1" Cookie="-1599389636" />
+		<Child8 File="1804109.png" RefCount="2" Cookie="-288814098" />
+		<Child9 File="3683953.png" RefCount="5" Cookie="1007205344" />
+		<Child10 File="3683406.png" RefCount="2" Cookie="535164398" />
+		<Child11 File="1805828.png" RefCount="1" Cookie="1874246301" />
+		<Child12 File="1804890.png" RefCount="1" Cookie="-1883244255" />
+		<Child13 File="3730609.png" RefCount="1" Cookie="-562698086" />
+		<Child14 File="3692890.png" RefCount="1" Cookie="-1754604567" />
+		<Child15 File="1277593.png" RefCount="1" Cookie="370194309" />
+		<Child16 File="3730937.png" RefCount="1" Cookie="840383221" />
+		<Child17 File="3696218.png" RefCount="2" Cookie="889490241" />
+		<Child18 File="1278171.png" RefCount="3" Cookie="2045421171" />
+		<Child19 File="3684875.png" RefCount="1" Cookie="112060112" />
+		<Child20 File="4203625.png" RefCount="3" Cookie="-1918573445" />
+		<Child21 File="3687937.png" RefCount="1" Cookie="-1594197466" />
+		<Child22 File="1804437.png" RefCount="2" Cookie="-768875656" />
+		<Child23 File="1805390.png" RefCount="2" Cookie="857003556" />
+		<Child24 File="3685453.png" RefCount="1" Cookie="-1038143278" />
+		<Child25 File="3700750.png" RefCount="1" Cookie="17409419" />
+||||||| .r6
+		<Child1 File="3683953.png" RefCount="5" Cookie="1007205344" />
+		<Child2 File="1804437.png" RefCount="2" Cookie="-768875656" />
+		<Child3 File="1805828.png" RefCount="1" Cookie="1874246301" />
+		<Child4 File="3730609.png" RefCount="1" Cookie="-562698086" />
+		<Child5 File="1804890.png" RefCount="1" Cookie="-1883244255" />
+		<Child6 File="1803796.png" RefCount="1" Cookie="-1599389636" />
+		<Child7 File="1277593.png" RefCount="1" Cookie="370194309" />
+		<Child8 File="1804109.png" RefCount="2" Cookie="-288814098" />
+		<Child9 File="1806937.png" RefCount="1" Cookie="480587991" />
+		<Child10 File="1278171.png" RefCount="3" Cookie="2045421171" />
+		<Child11 File="1806687.png" RefCount="1" Cookie="-47203614" />
+		<Child12 File="1805390.png" RefCount="2" Cookie="857003556" />
+		<Child13 File="3730937.png" RefCount="1" Cookie="840383221" />
+		<Child4 File="1804890.png" RefCount="1" Cookie="-1883244255" />
+		<Child5 File="1803796.png" RefCount="1" Cookie="-1599389636" />
+		<Child6 File="3684875.png" RefCount="1" Cookie="112060112" />
+		<Child7 File="1277593.png" RefCount="1" Cookie="370194309" />
+		<Child8 File="1804109.png" RefCount="2" Cookie="-288814098" />
+		<Child9 File="3682906.png" RefCount="2" Cookie="-926323838" />
+		<Child10 File="3685453.png" RefCount="1" Cookie="-1038143278" />
+		<Child11 File="3683406.png" RefCount="2" Cookie="535164398" />
+		<Child12 File="3687937.png" RefCount="1" Cookie="-1594197466" />
+		<Child13 File="1806937.png" RefCount="1" Cookie="480587991" />
+		<Child14 File="3692890.png" RefCount="1" Cookie="-1754604567" />
+		<Child15 File="1278171.png" RefCount="3" Cookie="2045421171" />
+		<Child16 File="3696218.png" RefCount="2" Cookie="889490241" />
+		<Child17 File="3690437.png" RefCount="1" Cookie="665587738" />
+		<Child18 File="1806687.png" RefCount="1" Cookie="-47203614" />
+		<Child19 File="1805390.png" RefCount="2" Cookie="857003556" />
+		<Child20 File="3700750.png" RefCount="1" Cookie="17409419" />
+=======
 		<Child1 File="1806937.png" RefCount="1" Cookie="480587991" />
 		<Child2 File="1806687.png" RefCount="1" Cookie="-47203614" />
 		<Child3 File="4175781.png" RefCount="3" Cookie="1908970451" />
@@ -30,5 +88,6 @@
 		<Child27 File="1805390.png" RefCount="2" Cookie="857003556" />
 		<Child28 File="3685453.png" RefCount="1" Cookie="-1038143278" />
 		<Child29 File="3700750.png" RefCount="1" Cookie="17409419" />
+>>>>>>> .r7
 	</Images>
 </Root>
