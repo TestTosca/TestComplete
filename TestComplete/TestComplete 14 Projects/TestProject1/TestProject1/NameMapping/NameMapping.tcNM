@@ -203,6 +203,173 @@
 									</Child>
 								</Children>
 							</Child>
+							<Child Name="pageSearch" Key="{AA88D7DD-7A9D-4BE3-AA13-BB26B1EAA54F}" ParallelWalk="True">
+								<Image FileName="-562698086" Left="0" Top="71" Right="1432" Bottom="773" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="https://www.google.com/search*" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="imageDimg4" Key="{582A095B-B7F9-4F43-9F33-B6768EDB4DED}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="840383221" Left="307" Top="279" Right="437" Bottom="409" />
+										<TypeInfo Item0="{41919128-7274-40B8-8725-1DCE188B16CD}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Image" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="dimg_4" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="panelMain" Key="{F61AD6BA-2D84-4D8F-97B9-7FDE1A4E4992}" ParallelWalk="True">
+										<Image FileName="-146779382" Left="0" Top="-232" Right="1415" Bottom="4930" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="main" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panelCnt" Key="{0B634D59-121E-4B23-99FA-4D8DCF9C5ECD}" ParallelWalk="True">
+												<Image FileName="-146779382" Left="0" Top="-232" Right="1415" Bottom="4930" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="idStr">
+														<Value PropertyType="0" Value="cnt" Type="5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panelRcnt" Key="{C134C290-5017-48EC-BD85-DEEFDDF5DEF1}" ParallelWalk="True">
+														<Image FileName="-146779382" Left="0" Top="-96" Right="1415" Bottom="4900" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="idStr">
+																<Value PropertyType="0" Value="rcnt" Type="5" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panel" Key="{E6CC2B63-03CC-45F7-BD29-C7B55326309D}" ParallelWalk="True">
+																<Image FileName="-146779382" Left="0" Top="-96" Right="1415" Bottom="4900" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value PropertyType="0" Value="0" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="panelCenterCol" Key="{D0227137-CA95-41C9-AB3A-E11D5FFD2ACC}" ParallelWalk="True">
+																		<Image FileName="-146779382" Left="0" Top="-107" Right="1415" Bottom="4900" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Panel" Type="5" />
+																			</Property>
+																			<Property Name="idStr">
+																				<Value PropertyType="0" Value="center_col" Type="5" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="panelRes" Key="{328C4DEB-92FF-4D51-A253-AC120B6676E7}" ParallelWalk="True">
+																				<Image FileName="-146779382" Left="0" Top="-29" Right="1415" Bottom="4900" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Panel" Type="5" />
+																					</Property>
+																					<Property Name="idStr">
+																						<Value PropertyType="0" Value="res" Type="5" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="panelSearch" Key="{B7A08B5A-7E49-4C34-8489-46AB00D2BCE7}" ParallelWalk="True">
+																						<Image FileName="-146779382" Left="24" Top="-29" Right="1391" Bottom="4900" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value PropertyType="0" Value="Panel" Type="5" />
+																							</Property>
+																							<Property Name="idStr">
+																								<Value PropertyType="0" Value="search" Type="5" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="panel" Key="{C0426F9E-B8DF-40CE-9C9C-E1F4CF54BBB8}" ParallelWalk="True">
+																								<Image FileName="-146779382" Left="24" Top="-29" Right="1391" Bottom="4900" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value PropertyType="0" Value="Panel" Type="5" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="panelRso" Key="{4E6F40A2-D701-4328-9AF8-5F5D1613F50F}" ParallelWalk="True">
+																										<Image FileName="-146779382" Left="24" Top="-29" Right="1391" Bottom="4900" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value PropertyType="0" Value="Panel" Type="5" />
+																											</Property>
+																											<Property Name="idStr">
+																												<Value PropertyType="0" Value="rso" Type="5" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="panelIsrMc" Key="{E9BEB6BE-E75F-4264-A50E-8EEF45A6C8A2}" ParallelWalk="True">
+																												<Image FileName="-146779382" Left="24" Top="-29" Right="1391" Bottom="4900" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value PropertyType="0" Value="Panel" Type="5" />
+																													</Property>
+																													<Property Name="idStr">
+																														<Value PropertyType="0" Value="isr_mc" Type="5" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="imageZ" Key="{0AC3B6A0-3B0A-4347-B141-6FBBAE399E25}" ExtendedFind="True" ParallelWalk="True">
+																														<Image FileName="-146779382" Left="466" Top="-29" Right="661" Bottom="166" />
+																														<TypeInfo Item0="{41919128-7274-40B8-8725-1DCE188B16CD}" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value PropertyType="0" Value="Image" Type="5" />
+																															</Property>
+																															<Property Name="ObjectIdentifier">
+																																<Value PropertyType="0" Value="Z" Type="5" />
+																															</Property>
+																															<Property Name="src">
+																																<Value PropertyType="0" Value="data:image/jpeg;base64,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" Type="5" />
+																															</Property>
+																														</Properties>
+																													</Child>
+																												</Children>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
 						</Children>
 					</Child>
 				</Children>
@@ -231,6 +398,30 @@
 					<Child Name="textboxEmail" Owner="{7D6665E4-BD04-461F-A9A2-546BEA365CD9}" />
 					<Child Name="passwordboxPass" Owner="{E5FB85B6-A082-4ED4-A2DB-CC759F6F1E80}" />
 					<Child Name="buttonLogIn" Owner="{DB9BD720-34D8-4F7B-A5D6-F8625AA34F77}" />
+				</Child>
+			</Child>
+			<Child Name="pageSearch" Owner="{AA88D7DD-7A9D-4BE3-AA13-BB26B1EAA54F}">
+				<Child Name="imageDimg4" Owner="{582A095B-B7F9-4F43-9F33-B6768EDB4DED}" />
+				<Child Name="panelMain" Owner="{F61AD6BA-2D84-4D8F-97B9-7FDE1A4E4992}">
+					<Child Name="panelCnt" Owner="{0B634D59-121E-4B23-99FA-4D8DCF9C5ECD}">
+						<Child Name="panelRcnt" Owner="{C134C290-5017-48EC-BD85-DEEFDDF5DEF1}">
+							<Child Name="panel" Owner="{E6CC2B63-03CC-45F7-BD29-C7B55326309D}">
+								<Child Name="panelCenterCol" Owner="{D0227137-CA95-41C9-AB3A-E11D5FFD2ACC}">
+									<Child Name="panelRes" Owner="{328C4DEB-92FF-4D51-A253-AC120B6676E7}">
+										<Child Name="panelSearch" Owner="{B7A08B5A-7E49-4C34-8489-46AB00D2BCE7}">
+											<Child Name="panel" Owner="{C0426F9E-B8DF-40CE-9C9C-E1F4CF54BBB8}">
+												<Child Name="panelRso" Owner="{4E6F40A2-D701-4328-9AF8-5F5D1613F50F}">
+													<Child Name="panelIsrMc" Owner="{E9BEB6BE-E75F-4264-A50E-8EEF45A6C8A2}">
+														<Child Name="imageZ" Owner="{0AC3B6A0-3B0A-4347-B141-6FBBAE399E25}" />
+													</Child>
+												</Child>
+											</Child>
+										</Child>
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+					</Child>
 				</Child>
 			</Child>
 		</Child>
